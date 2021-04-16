@@ -28,7 +28,9 @@ There is only one notebook for this analysis, it is a self-contained notebook wh
 
 **Results**
 
-Cells within the Notebook provide some interpretation of the results, the main findings however, can be found at the following Medium post.Additional analyses was considered for this Project but were not taken forward. These included: Investigating the Importance/Benefits field and link to Satisfaction, as well as developing a model to predict time spent at home looking for new roles
+Cells within the Notebook provide some interpretation of the results, the main findings however, can be found at the following Medium post. 
+
+Additional analyses were considered for this Project but were not taken forward. These included: Investigating the Importance/Benefits field and link to Satisfaction, as well as developing a model to predict time spent at home looking for new roles
 
 **Licensing, Authors, Acknowledgements**
 
