@@ -32,5 +32,5 @@ Cells within the Notebook provide some interpretation of the results, the main f
 
 **Licensing, Authors, Acknowledgements**
 
-Data was provided by Stack Overflow, and sourced from Kaggle at the following link: here. Data licensing is described as ‘Open Database’.
+Data was provided by Stack Overflow, and sourced from Kaggle at the following link: [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Data licensing is described as ‘Open Database’.
 Function ‘higher_ed’ was taken from Udacity, DataScience Nanodegree (Introduction to DataScience, Lesson 2 - S12) and modified to answer Question 3
