@@ -28,11 +28,22 @@ There is only one notebook for this analysis, it is a self-contained notebook wh
 
 **Results**
 
-Cells within the Notebook provide some interpretation of the results, the main findings however, can be found at the following Medium post. 
+Cells within the Notebook provide some interpretation of the results, the main findings however, can be found at the following Medium post. A summary is also provided below
 
+In summary, descriptive statistics were used to analyse this data with bar charts and a heat map being used to visualise the findings. Means and Medians were also reported. Median was chosen for the Satisfation measures to give a representation of what the majority of respondents scored for these questions. Imputation of missing data was also preformed this was to provide a 'Missing' level for reporting, and to confirm if differences observed between groups were genuine.
+
+  1.	Firstly, are Respondents to the Survey looking for new Job opportunities? It was found that 13% (4,371 respondents) were seeking a new role. 62% (20,729  respondents) are       not actively looking for a new role, but are open to new opportunities. Those looking for new opportunites spend over 8 hours a week doing this, and are also paid the           least when compared to those not looking for new job opportunities.
+ 
+  2.  Looking at whether the respondent has home or flexible working it was found that 30% of respondents indicated that they work from home 'A few days each month' and 27.2%
+      responding that they 'Never' work from home. Respondents that spent nearly half their time working from home spent almost 5 hours a week looking for a new job, compared to       3–3.5 hours for those that never work from home. Median Satisfaction was consistient across all work from home groups. 
+      
+  3.  Considering education level of the parent and respondent attainment. Where a parent had higher education then 78.4% of respondents also had higher education, whilst 20.7%       of respondents did not. Conversely, where the parent has no higher education, the percentages of respondent level of education are closer. Where the parent did not have
+      higher education 56% of respondents did have a higher education whilst 43.1% did not.
+     
 Additional analyses were considered for this Project but were not taken forward. These included: Investigating the Importance/Benefits field and link to Satisfaction, as well as developing a model to predict time spent at home looking for new roles
 
 **Licensing, Authors, Acknowledgements**
 
 Data was provided by Stack Overflow, and sourced from Kaggle at the following link: [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Data licensing is described as ‘Open Database’.
+
 Function ‘higher_ed’ was taken from Udacity, DataScience Nanodegree (Introduction to DataScience, Lesson 2 - S12) and modified to answer Question 3
