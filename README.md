@@ -28,7 +28,7 @@ There is only one notebook for this analysis, it is a self-contained notebook wh
 
 **Results**
 
-Cells within the Notebook provide some interpretation of the results, the main findings however, can be found at the following Medium post. A summary is also provided below
+Cells within the Notebook provide some interpretation of the results, the main findings however, can be found at the following [Medium post](https://grant25.medium.com/looking-for-a-new-job-ask-your-parents-ec6b723e2d82). A summary is also provided below:
 
 In summary, descriptive statistics were used to analyse this data with bar charts and a heat map being used to visualise the findings. Means and Medians were also reported. Median was chosen for the Satisfation measures to give a representation of what the majority of respondents scored for these questions. Imputation of missing data was also preformed this was to provide a 'Missing' level for reporting, and to confirm if differences observed between groups were genuine.
 
